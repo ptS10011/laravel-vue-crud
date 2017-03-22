@@ -1,9 +1,15 @@
 
 // Fonts
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700,800,900);
 
 // Variables
-@import "variables";
+@import 'variables';
 
 // Bootstrap
-@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import 'node_modules/bootstrap-sass/assets/stylesheets/bootstrap';
+
+// Font-awesome
+@import 'node_modules/font-awesome/scss/font-awesome';
+
+//Sweetalert2
+@import 'node_modules/sweetalert2/src/sweetalert2';
